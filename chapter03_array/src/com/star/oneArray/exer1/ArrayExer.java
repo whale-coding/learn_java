@@ -1,4 +1,4 @@
-package com.star.one.exer1;
+package com.star.oneArray.exer1;
 
 /**
  * @Date 2023/12/2 16:34

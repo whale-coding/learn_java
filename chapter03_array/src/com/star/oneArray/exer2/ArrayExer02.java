@@ -1,4 +1,4 @@
-package com.star.one.exer2;
+package com.star.oneArray.exer2;
 
 import java.util.Scanner;
 
