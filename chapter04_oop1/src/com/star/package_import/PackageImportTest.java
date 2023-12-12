@@ -1,7 +1,9 @@
 package com.star.package_import;
 
-import oop.method_more._04recursion.RecursionTest;
-import oop.method_more._04recursion.exer2.RabbitExer;
+
+import com.star.method_more._04recursion.RecursionTest;
+import com.star.method_more._04recursion.exer2.RabbitExer;
+
 import java.lang.reflect.Field;
 import java.util.*;
 
