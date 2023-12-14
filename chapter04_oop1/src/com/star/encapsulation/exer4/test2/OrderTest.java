@@ -1,6 +1,7 @@
 package com.star.encapsulation.exer4.test2;
 
-import oop.encapsulation.exer4.test1.Order;
+
+import com.star.encapsulation.exer4.test1.Order;
 
 /**
  * @Date 2023-12-13 23:08 星期三
