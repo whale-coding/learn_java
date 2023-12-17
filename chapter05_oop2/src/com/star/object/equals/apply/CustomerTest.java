@@ -1,4 +1,4 @@
-package object.equals.apply;
+package com.star.object.equals.apply;
 
 /**
  * @Date 2023-12-17 12:49 星期日

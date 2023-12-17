@@ -1,4 +1,4 @@
-package polymorphism.exer1;
+package com.star.polymorphism.exer1;
 
 /**
  * @Date 2023-12-16 23:18 星期六

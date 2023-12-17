@@ -1,4 +1,4 @@
-package object;
+package com.star.object;
 
 /**
  * @Date 2023-12-16 23:54 星期六

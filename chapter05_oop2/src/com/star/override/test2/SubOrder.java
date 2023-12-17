@@ -1,6 +1,7 @@
-package override.test2;
+package com.star.override.test2;
 
-import override.test1.Order;
+
+import com.star.override.test1.Order;
 
 /**
  * @Date 2023-12-15 21:05 星期五

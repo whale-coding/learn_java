@@ -1,4 +1,4 @@
-package object.tostring;
+package com.star.object.tostring;
 
 import java.io.File;
 import java.util.Date;

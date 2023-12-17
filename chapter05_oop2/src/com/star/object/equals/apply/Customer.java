@@ -1,4 +1,4 @@
-package object.equals.apply;
+package com.star.object.equals.apply;
 
 import java.util.Objects;
 

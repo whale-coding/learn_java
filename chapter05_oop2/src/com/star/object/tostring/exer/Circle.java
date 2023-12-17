@@ -1,4 +1,4 @@
-package object.tostring.exer;
+package com.star.object.tostring.exer;
 
 /**
  * @Date 2023-12-17 12:56 星期日

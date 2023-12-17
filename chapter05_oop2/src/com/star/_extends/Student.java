@@ -1,4 +1,4 @@
-package _extends;
+package com.star._extends;
 
 /**
  * @Date 2023-12-15 20:05 星期五

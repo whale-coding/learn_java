@@ -1,4 +1,4 @@
-package object.equals;
+package com.star.object.equals;
 
 
 import java.io.File;

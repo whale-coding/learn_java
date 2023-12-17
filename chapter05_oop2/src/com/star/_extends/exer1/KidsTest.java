@@ -1,4 +1,4 @@
-package _extends.exer1;
+package com.star._extends.exer1;
 
 /**
  * @Date 2023-12-15 20:44 星期五

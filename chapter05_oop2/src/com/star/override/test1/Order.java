@@ -1,4 +1,4 @@
-package override.test1;
+package com.star.override.test1;
 
 /**
  * @Date 2023-12-15 21:03 星期五

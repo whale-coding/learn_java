@@ -1,4 +1,4 @@
-package _super.interview;
+package com.star._super.interview;
 
 /**
  * @Date 2023-12-16 18:34 星期六

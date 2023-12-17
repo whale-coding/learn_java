@@ -1,4 +1,4 @@
-package object.equals.exer1;
+package com.star.object.equals.exer1;
 
 /**
  * @Date 2023-12-17 12:50 星期日

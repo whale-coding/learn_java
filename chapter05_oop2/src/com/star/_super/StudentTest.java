@@ -1,4 +1,4 @@
-package _super;
+package com.star._super;
 
 /**
  * @Date 2023-12-16 20:06 星期六
